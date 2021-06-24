@@ -1,5 +1,7 @@
 @import url(reset.css);
+@import url(../components/circle.css);
+@import url(../components/content.css);
 
 body {
-    background: #76C4C6;
+    background: #000;
 }
